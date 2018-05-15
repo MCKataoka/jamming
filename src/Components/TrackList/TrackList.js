@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './TrackList.css';
-import Track from '/Users/mariokataoka/Documents/Projects/jamming/src/Components/Track/Track';
+import Track from '../Track/Track';
 
 class TrackList extends Component {
   render() {
